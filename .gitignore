@@ -52,3 +52,14 @@ m4/lt~obsolete.m4
 # can automatically generate from config.status script
 # (which is called by configure script))
 Makefile
+src/Makefile
+src/Makefile.in
+
+*.o
+src/navlog
+
+configure~
+include/config.h.in
+include/config.h
+include/config.h.in~
+include/stamp-h1
